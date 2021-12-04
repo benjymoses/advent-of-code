@@ -9,7 +9,6 @@ A bit of a late start this year because of being a re:Invent in Las Vegas, NV. T
 
 Oh dear, I read the Day 3 puzzle and didn't know how to make a start, then work took over :man_facepalming:
 
-
 ### 2019
 
 Yeah, I mean it's pretty clear I didn't know what I was doing .....
