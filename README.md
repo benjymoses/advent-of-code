@@ -1,5 +1,10 @@
 # Advent of Code
+
 For my annual feeble attempts at Advent Of Code
+
+### 2022
+
+Late start due to re:Invent again, let's see if I can do more than 8.
 
 ### 2021
 
