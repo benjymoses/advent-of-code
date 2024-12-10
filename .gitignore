@@ -1,6 +1,5 @@
 # AOC Specific
 2022/inputs/
-*.txt
 node_modules
 
 # Byte-compiled / optimized / DLL files
